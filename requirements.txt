@@ -1,0 +1,10 @@
+#pip install -r requirements.txt
+#numpy==1.18.2
+#torch==1.8.1
+#torchvision==0.6.0
+#natsort==7.1.1
+#scikit-image==0.18.1
+#opencv-python
+
+pandas
+Tweepy
